@@ -1,0 +1,10 @@
+[package]
+name = "protoc-gen-tst"
+version = "0.1.0"
+authors = ["shoma07 <23730734+shoma07@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+protobuf = "2.14.0"
